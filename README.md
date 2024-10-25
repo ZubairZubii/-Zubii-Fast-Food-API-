@@ -29,7 +29,10 @@ Welcome to **Zubii Fast Food API**! 🚀 Your modern, efficient solution to mana
 ## 📜 **Project Overview**
 Zubii Fast Food API offers an intuitive backend API tailored for fast-food chains to manage orders, maintain customer interactions, and track the status of each order. Designed with simplicity and flexibility in mind, this API allows smooth integration with **Dialogflow** to support order automation and tracking.
 
-> 📸 **Screenshots**: Browse through screenshots of the user interface in action [here](https://github.com/YourUsername/Zubii-Fast-Food-API/screenshots)
+![s1](https://github.com/user-attachments/assets/c4dbb809-f13b-4027-9b73-9539109cb742) ![s2](https://github.com/user-attachments/assets/eb580827-209b-4fb8-84ac-332c39c38f30) ![s3](https://github.com/user-attachments/assets/a239f258-c257-4e98-98c6-0d985fdbfc6e)
+
+
+
 
 ---
 
