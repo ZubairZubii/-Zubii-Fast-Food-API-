@@ -32,8 +32,6 @@ Zubii Fast Food API offers an intuitive backend API tailored for fast-food chain
 ![s1](https://github.com/user-attachments/assets/c4dbb809-f13b-4027-9b73-9539109cb742) ![s2](https://github.com/user-attachments/assets/eb580827-209b-4fb8-84ac-332c39c38f30) ![s3](https://github.com/user-attachments/assets/a239f258-c257-4e98-98c6-0d985fdbfc6e)
 
 
-
-
 ---
 
 ## 🌟 **Features**
@@ -45,11 +43,14 @@ Zubii Fast Food API offers an intuitive backend API tailored for fast-food chain
 
 ---
 
+
 ## 🖼️ **Demo**
 
 Here’s how the vehicle detection works in action! 🎬👇
 
 👉 Check out our gameplay video here: [Vehicle detection](https://www.loom.com/share/84ab27f9769d43c98cd98c11568c9db7?sid=b05fc56a-4df6-4ab8-bb41-bf906a6c6cf0)
+
+---
 
 
 ## ⚙️ **Setup & Installation**
