@@ -3,6 +3,13 @@ Here's an advanced, eye-catching README file for your project, incorporating ico
 ---
 
 # 🍔 **Zubii Fast Food API** 🌐
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.85.0-blue)](https://fastapi.tiangolo.com/)
+[![Dialogflow](https://img.shields.io/badge/Dialogflow-API-orange)](https://cloud.google.com/dialogflow)
+[![GitHub stars](https://img.shields.io/github/stars/YourUsername/Zubii-Fast-Food-API.svg)](https://github.com/YourUsername/Zubii-Fast-Food-API/stargazers)
+
 Welcome to **Zubii Fast Food API**! 🚀 Your modern, efficient solution to manage food orders, tracking, and customer interactions via a chatbot. This API, built with **FastAPI**, connects seamlessly with Dialogflow to provide real-time food ordering, tracking, and order management features.
 
 ---
@@ -22,7 +29,6 @@ Welcome to **Zubii Fast Food API**! 🚀 Your modern, efficient solution to mana
 ## 📜 **Project Overview**
 Zubii Fast Food API offers an intuitive backend API tailored for fast-food chains to manage orders, maintain customer interactions, and track the status of each order. Designed with simplicity and flexibility in mind, this API allows smooth integration with **Dialogflow** to support order automation and tracking.
 
-> 💡 **Demo Video**: Watch a video demo of the system in action: [Demo Link](https://youtu.be/demo_video_placeholder)  
 > 📸 **Screenshots**: Browse through screenshots of the user interface in action [here](https://github.com/YourUsername/Zubii-Fast-Food-API/screenshots)
 
 ---
@@ -132,9 +138,12 @@ POST http://127.0.0.1:8000/
 
 ---
 
-## 📸 **Screenshots & Media**
-- **User Interface Screenshots** 📸: Check out the latest UI for tracking orders and interacting with the bot [here](https://github.com/YourUsername/Zubii-Fast-Food-API/screenshots)
-- **Demo Video** 🎥: [Demo](https://youtu.be/demo_video_placeholder)
+
+## 🖼️ **Demo**
+
+Here’s how the vehicle detection works in action! 🎬👇
+
+👉 Check out our gameplay video here: [Vehicle detection](https://www.loom.com/share/84ab27f9769d43c98cd98c11568c9db7?sid=b05fc56a-4df6-4ab8-bb41-bf906a6c6cf0)
 
 ---
 
