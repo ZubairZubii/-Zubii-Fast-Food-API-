@@ -48,7 +48,7 @@ Zubii Fast Food API offers an intuitive backend API tailored for fast-food chain
 
 Here’s how the vehicle detection works in action! 🎬👇
 
-👉 Check out our gameplay video here: [Vehicle detection](https://www.loom.com/share/84ab27f9769d43c98cd98c11568c9db7?sid=b05fc56a-4df6-4ab8-bb41-bf906a6c6cf0)
+👉 Check out our gameplay video here: [Fast-Food-Chatbot](https://www.loom.com/share/84ab27f9769d43c98cd98c11568c9db7?sid=b05fc56a-4df6-4ab8-bb41-bf906a6c6cf0)
 
 ---
 
